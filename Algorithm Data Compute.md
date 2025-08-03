@@ -14,6 +14,8 @@ https://indextts2.org/
 How to Scale Your Model https://jax-ml.github.io/scaling-book/
 
 # Data
+Weaviate is a cloud-native, open source vector databas https://github.com/weaviate/weaviate
+https://docs.weaviate.io/academy
 
 # Vibe coding
 ## Claude with CodeRabbit + TaskMaster https://x.com/PrajwalTomar_/status/1950565560494014816
